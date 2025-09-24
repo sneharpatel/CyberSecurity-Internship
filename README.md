@@ -1,2 +1,2 @@
-# CyberSecurity-Internship-
+# CyberSecurity-Internship
 PowerShell
