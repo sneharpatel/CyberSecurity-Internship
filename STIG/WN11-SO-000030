@@ -22,7 +22,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\STIG-ID-WN11-AU-000010.ps1 
+    PS C:\> .\STIG-ID-WN11-SO-000030.ps1 
 #>
 
 
